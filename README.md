@@ -1,4 +1,4 @@
-# <a id=TOP></a>![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+code+pro&size=35&duration=4500&pause=300&color=359AF7&center=true&width=435&lines=Hey+there+!)
+# <a id=TOP></a>![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+code+pro&size=35&duration=3500&pause=300&color=359AF7&center=true&width=435&lines=Hey+there+!)
 I want to tell about myself and at the same time show my skills. I'm using GitHub for this. My teachers always taught me: 
 > \- _"portfolio is a short biography of your life"_. 
 
