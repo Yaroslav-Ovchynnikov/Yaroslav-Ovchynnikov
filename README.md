@@ -7,7 +7,8 @@ I'm not going to listen "advisers" from "IT courses" about the minimum text for 
 2. **[Education](#Education)**;
 3. **[Employment history](#Employmenthistory)**;
 4. **[Additational education](#Additationaleducation)**;
-5. **[Experience in IT](#ExperienceinIT)**.
+5. **[Experience in IT](#ExperienceinIT)**;
+6. **[Contacts](#Contacts)**.
 
 I'm sure you will be interested. Let's get it on.
 ___
@@ -35,7 +36,7 @@ ___
 You can find all information about my experience in my repo ["Experience in IT"](https://github.com/Yaroslav-Ovchynnikov/experience-in-it)
 ___
 
-#### ``` Contacts: ```
+#### <center> <a id=Contacts> [``` Contacts: ```](#TOP) </a>
 Telegram | Gmail | Instagram | Facebook| Phone|LinkedIn
 :------: | :------:|:----------:|:----:|:----:|:---:|
 |<a href="http://t.me/ovchynnikov_yaroslav"><img src = "/images/Telegram.jpg" width = "115" height = "115" alt = "Telegram"/></a>|<a href="mailto:yaroslav.ovchynnikov.lex@gmail.com"><img src = "/images/Gmail.png" width = "115" height = "115" alt = "Gmail"/></a>|<a href="https://www.instagram.com/yaroslav_ovchynnikov/"><img src = "/images/Instagram.png" width = "115" height = "115" alt = "Instagram"/></a>|<a href="http://www.fb.com/yaroslav.ovchynnikov"><img src = "/images/Facebook.png" width = "115" height = "115" alt = "Facebook"/></a>|<a href="tel:+38(063)249-97-03"><img src = "/images/Phone.png" width = "115" height = "115" alt = "Phone"/></a>|<a href="http://www.linkedin.com/in/oym/"><img src = "/images/LinkedIN.png" width = "115" height = "115" alt = "LinkedIn"/></a>
