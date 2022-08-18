@@ -16,29 +16,29 @@ My name is Yaroslav Ovchynnikov. I was born in 1994 in **[Lugansk region of Ukra
 
 ___
 ## <center> <a id=Education> [``` Education ```](#TOP)</a>
-I entered in Donetsk National University in 2012 and studied there until May 2014. When the war started I had to relocated from Donetsk to Kharkov. I entered in Yaroslav Mudryi National Law University and finished it in February 2018. I have degree - **[Master of Laws](https://media-exp1.licdn.com/dms/image/C4D2DAQHC42l-duZU-w/profile-treasury-image-shrink_800_800/0/1658950515205?e=1661205600&v=beta&t=bo1Yym-IjpBB8gRdfwIUi1w_7p1fwyI2zcUJ4NonQSs)**. 
+I entered in Donetsk National University in 2012 and studied there until May 2014. When the war started I had to relocated from Donetsk to Kharkov. I entered in Yaroslav Mudryi National Law University and finished it in February 2018. I have degree - **[Master of Laws](/images/Diploma.JPG)**. 
 ___
 ## <center> <a id=Employmenthistory> [``` Employment history ```](#TOP)</a>
 1. **Relocate from Kharkov to Dnipro.**
     - I relocated from Kharkov to Dnipro in 2018 and became a legal adviser in a national service company "BaDM" LLC. I worked from April 2018 to May 2019. The main task is work with contracts.
 2. **Relocate from Dnipro to Kiev.**
     - I relocated from Dnipro to Kyiv in January 2020. The next I got a job as a lawyer in the law firm "Go-to Legal" in April 2020 and worked there until Januar 2021. The main task is work with contract, protect the rights of a clients in a courts and business support of the international IT company "Playtika" LLC and another international companies (for ex.: _Weiwo Ukraine Mobile Communication, Candy Hoover OY, Oasis Communication Technologies and others_);  
-    - In January 2021 I received an offer of the law company "PROVE GROUP" to participate in a large project related to protecting the interests of a client in a criminal case. I studied at **["Higher School of Advocacy"](https://www.linkedin.com/in/oym/details/education/1635497855186/single-media-viewer/)** and successfully completed it. After that, I have a position - "Assistant Attorney" and the **[certificate](https://www.linkedin.com/in/oym/overlay/1635497530001/single-media-viewer/)**.This project has already been completed today. We protected the rights of the client and saved him from the real term and the loss of a large amount of property.
+    - In January 2021 I received an offer of the law company "PROVE GROUP" to participate in a large project related to protecting the interests of a client in a criminal case. I studied at **["Higher School of Advocacy"](/images/Certificate%20HSA.jpg)** and successfully completed it. After that, I have a position - "Assistant Attorney" and the **[certificate](/images/Certificate%20Assis.jpeg)**.This project has already been completed today. We protected the rights of the client and saved him from the real term and the loss of a large amount of property.
 
 We have completed the last project until February 2022. The war that began on February 24, 2022 changed everything. Law firms have as much suffered as their clients and there aren`t perspectives. This additionally prompted the decision to change my activities as a specialist. By the way, completed IT courses were useful.
 ___
 
 ## <center> <a id=Additationaleducation> [``` Additational education ```](#TOP)</a>
-I entered the QA Engineer course at GoIT Academy in November 2021. My teacher was **[Olya Biletska](https://www.linkedin.com/in/olya-biletska-859b27149/)**. I complited QA Engineer course in April 2022. I have got certificate **[QA Engineer](https://www.linkedin.com/in/oym/overlay/1635497531191/single-media-viewer/)**. I also have a certificate of **[basic knowledge of SQL](https://www.linkedin.com/in/oym/details/featured/1635497529453/single-media-viewer/)**. I also just completed a course on Git and GitHub. This my portfolio is proof of my knowledge of Git and GitHub. 
+I entered the QA Engineer course at GoIT Academy in November 2021. My teacher was **[Olya Biletska](https://www.linkedin.com/in/olya-biletska-859b27149/)**. I complited QA Engineer course in April 2022. I have got certificate **[QA Engineer](/images/GOIT_Certificate.jpeg)**. I also have a certificate of **[basic knowledge of SQL](/images/Datacamp%20SQL.jpeg)**. I also just completed a course on Git and GitHub. This my portfolio is proof of my knowledge of [Git and GitHub](/images/Certificate%20Git%20and%20GitHub.pdf). 
 ___
 ## <center> <a id=ExperienceinIT> [``` Experience in IT ```](#TOP) </a>
-You can find all information about my experience in my repo ["Experience in IT"](example)
+You can find all information about my experience in my repo ["Experience in IT"](https://github.com/Yaroslav-Ovchynnikov/experience-in-it)
 ___
 
 #### ``` Contacts: ```
 Telegram | Gmail | Instagram | Facebook| Phone|LinkedIn
 :------: | :------:|:----------:|:----:|:----:|:---:|
-|<a href="http://t.me/ovchynnikov_yaroslav"><img src = "url" width = "120" height = "120" alt = "Telegram"/></a>|<a href="mailto:yaroslav.ovchynnikov.lex@gmail.com"><img src = "url" width = "120" height = "120" alt = "Gmail"/></a>|<a href="https://www.instagram.com/yaroslav_ovchynnikov/"><img src = "url" width = "120" height = "120" alt = "Instagram"/></a>|<a href="http://www.fb.com/yaroslav.ovchynnikov"><img src = "url" width = "120" height = "120" alt = "Facebook"/></a>|<a href="tel:+38(063)249-97-03"><img src = "url" width = "120" height = "120" alt = "Phone"/></a>|<a href="http://www.linkedin.com/in/oym/"><img src = "url" width = "120" height = "120" alt = "LinkedIn"/></a>
+|<a href="http://t.me/ovchynnikov_yaroslav"><img src = "/images/Telegram.jpg" width = "120" height = "120" alt = "Telegram"/></a>|<a href="mailto:yaroslav.ovchynnikov.lex@gmail.com"><img src = "/images/Gmail.png" width = "120" height = "120" alt = "Gmail"/></a>|<a href="https://www.instagram.com/yaroslav_ovchynnikov/"><img src = "/images/Instagram.png" width = "120" height = "120" alt = "Instagram"/></a>|<a href="http://www.fb.com/yaroslav.ovchynnikov"><img src = "/images/Facebook.png" width = "120" height = "120" alt = "Facebook"/></a>|<a href="tel:+38(063)249-97-03"><img src = "/images/Phone.png" width = "120" height = "120" alt = "Phone"/></a>|<a href="http://www.linkedin.com/in/oym/"><img src = "/images/LinkedIn.png" width = "120" height = "120" alt = "LinkedIn"/></a>
 
 
 ## I will be happy if you write feedback about my portfolio. Thanks 😉
