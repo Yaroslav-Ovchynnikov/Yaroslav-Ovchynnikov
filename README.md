@@ -1,4 +1,4 @@
-# <a id=TOP></a>![Logo](/images/Header_for_README.png)
+# <a id=TOP></a><img src = "/images/HEADER_for_README.png" width = "800" height = "200"/></a>
 I want to tell about myself and at the same time show my skills. I'm using GitHub for this. My teachers always taught me: 
 > \- _"portfolio is a short biography of your life"_. 
 
