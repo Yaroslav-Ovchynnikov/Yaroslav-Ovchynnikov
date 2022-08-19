@@ -35,10 +35,10 @@ We have completed the last project until February 2022. The war that began on Fe
 ___
 
 ## <p align="center"> <a id=Additationaleducation> [``` Additational education ```](#TOP)</a></p>
-I entered the QA Engineer course at GoIT Academy in November 2021. My teacher was **[Olya Biletska](https://www.linkedin.com/in/olya-biletska-859b27149/)**. I complited QA Engineer course in April 2022. I have got certificate **[QA Engineer](/images/GOIT_Certificate.jpeg)**. I also have a certificate of **[basic knowledge of SQL](/images/Datacamp%20SQL.jpeg)**. I also just completed a course on Git and GitHub. This my portfolio is proof of my knowledge of [Git and GitHub](/images/Certificate%20Git%20and%20GitHub.pdf). 
+I entered the QA Engineer course at GoIT Academy in November 2021. My teacher was **[Olya Biletska](https://www.linkedin.com/in/olya-biletska-859b27149/)**. I complited QA Engineer course in April 2022. I have got certificate **[QA Engineer](/images/GOIT_Certificate.jpeg)**. I also have a certificate of **[basic knowledge of SQL](/images/Datacamp%20SQL.jpeg)**. I also just completed a course on Git and GitHub. This my portfolio is proof of my knowledge of **[Git and GitHub](/images/Certificate%20Git%20and%20GitHub.pdf).** 
 ___
 ## <p align="center"> <a id=ExperienceinIT> [``` Experience in IT ```](#TOP) </a></p>
-You can find all information about my experience in my repo **["Experience in IT"](https://github.com/Yaroslav-Ovchynnikov/experience-in-it)**
+You can find all information about my experience in my  <a href="https://github.com/Yaroslav-Ovchynnikov/experience-in-it"><img src="https://camo.githubusercontent.com/b607c0ac7a6e4540bf5f6af181391ff51c1fe6f1e950a2630b4fbf5a43969aa7/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f5265706f2d626c75652e7376673f6c6f676f3d7265706f">
 ___
 
 ## <p align="center"> <a id=Myfuturegoals> [``` My future goals ```](#TOP) </a></p>
