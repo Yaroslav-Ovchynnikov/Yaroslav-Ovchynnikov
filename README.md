@@ -48,9 +48,9 @@ I am planning to change my profession. I want to work in a fast growing IT indus
 ___
 
 #### <center> <a id=Contacts> [``` Contacts: ```](#TOP) </a>
-Telegram | Gmail | Instagram | Facebook| Phone|LinkedIn
-:------: | :------:|:----------:|:----:|:----:|:---:|
-|<a href="http://t.me/ovchynnikov_yaroslav"><img src = "/images/Telegram.jpg" width = "115" height = "115" alt = "Telegram"/></a>|<a href="mailto:yaroslav.ovchynnikov.lex@gmail.com"><img src = "/images/Gmail.png" width = "115" height = "115" alt = "Gmail"/></a>|<a href="https://www.instagram.com/yaroslav_ovchynnikov/"><img src = "/images/Instagram.png" width = "115" height = "115" alt = "Instagram"/></a>|<a href="http://www.fb.com/yaroslav.ovchynnikov"><img src = "/images/Facebook.png" width = "115" height = "115" alt = "Facebook"/></a>|<a href="tel:+38(063)249-97-03"><img src = "/images/Phone.png" width = "115" height = "115" alt = "Phone"/></a>|<a href="http://www.linkedin.com/in/oym/"><img src = "/images/LinkedIN.png" width = "115" height = "115" alt = "LinkedIn"/></a>
+Telegram | Gmail | Instagram | Facebook|LinkedIn
+:------: | :------:|:----------:|:----:|:---:|
+|<a href="http://t.me/ovchynnikov_yaroslav"><img src = "/images/Telegram.png" width = "115" height = "100" alt = "Telegram"/></a>|<a href="mailto:yaroslav.ovchynnikov.it@gmail.com"><img src = "/images/Gmail.png" width = "115" height = "100" alt = "Gmail"/></a>|<a href="https://www.instagram.com/yaroslav_ovchynnikov/"><img src = "/images/Instagram.png" width = "115" height = "100" alt = "Instagram"/></a>|<a href="http://www.fb.com/yaroslav.ovchynnikov"><img src = "/images/Facebook.png" width = "115" height = "100" alt = "Facebook"/></a>|<a href="http://www.linkedin.com/in/oym/"><img src = "/images/LinkedIN.png" width = "115" height = "100" alt = "LinkedIn"/></a>
 
 
 ## <p align="center">I will be happy if you write feedback about my portfolio. Thanks 😉</p>
