@@ -47,12 +47,12 @@ I am planning to change my profession. I want to work in a fast growing IT indus
 
 ___
 
-#### <center> <a id=Contacts> [``` Contacts: ```](#TOP) </a>
+#### <a id=Contacts> [``` Contacts: ```](#TOP) </a>
 Telegram | Gmail | Instagram | Facebook|LinkedIn
 :------: | :------:|:----------:|:----:|:---:|
-|<a href="http://t.me/ovchynnikov_yaroslav"><img src = "/images/Telegram.png" width = "115" height = "100" alt = "Telegram"/></a>|<a href="mailto:yaroslav.ovchynnikov.it@gmail.com"><img src = "/images/Gmail.png" width = "115" height = "100" alt = "Gmail"/></a>|<a href="https://www.instagram.com/yaroslav_ovchynnikov/"><img src = "/images/Instagram.png" width = "115" height = "100" alt = "Instagram"/></a>|<a href="http://www.fb.com/yaroslav.ovchynnikov"><img src = "/images/Facebook.png" width = "115" height = "100" alt = "Facebook"/></a>|<a href="http://www.linkedin.com/in/oym/"><img src = "/images/LinkedIN.png" width = "115" height = "100" alt = "LinkedIn"/></a>
+|<img alt="Telegram" src="https://img.shields.io/badge/telegram-000000.svg?logo=telegram&logoColor=white"></a>|<a href="mailto:yaroslav.ovchynnikov.it@gmail.com"><img src ="https://img.shields.io/badge/Gmail-000000.svg?logo=Gmail"></a>|<a href="https://www.instagram.com/yaroslav_ovchynnikov/"><img src ="https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram"></a>|<a href="http://www.fb.com/yaroslav.ovchynnikov"><img src ="https://img.shields.io/badge/Facebook-000000.svg?logo=Facebook"></a>|<a href="http://www.linkedin.com/in/oym/"><img src ="https://img.shields.io/badge/LinkedIn-000000.svg?logo=Linkedin"></a>
 
-
+---
 ## <p align="center">I will be happy if you write feedback about my portfolio. Thanks 😉</p>
 ___
 
